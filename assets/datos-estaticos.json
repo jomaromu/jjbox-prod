@@ -1,0 +1,35 @@
+{
+  "datosGenerales": {
+    "correo": "jjbox507@gmail.com",
+    "telefono": "64252114",
+    "libraAerea": "2.50",
+    "libraMaritima": "2.90",
+    "horario": "Estamos abiertos de Lunes a Viernes de 9:00 am a 6:00 pm. Sábados de 9: 00 am a 1:00 pm.",
+    "ubicacion": "Pueblo Nuevo calle 16, detrás de antigua Estrella Azul. (En la entrada de la calle)."
+  },
+
+  "direccionAerea": {
+    "prefijo": "",
+    "sufijo": "",
+    "direccion": "",
+    "telefono": "",
+    "ciudad": "",
+    "estado": "",
+    "codigoPostal": ""
+  },
+
+  "direccionMaritima": {
+    "prefijo": "",
+    "sufijo": "",
+    "direccion": "7854 N.W 45 TH Miami FL 33166",
+    "telefono": "3055924354",
+    "ciudad": "Miami",
+    "estado": "Florida",
+    "codigoPostal": "33166"
+  },
+  "redes": {
+    "twitter": "https://twitter.com",
+    "facebook": "https://www.facebook.com/jjboxpty",
+    "instagram": "https://www.instagram.com/jjbox_pty"
+  }
+}
